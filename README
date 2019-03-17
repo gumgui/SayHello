@@ -1,0 +1,8 @@
+#SayHello
+这是学习《flask web开发实战》时按书上写的案例。
+
+##简介
+SayHello是一个留言板程序，可以让任何人发表对世界的问候。
+
+##说明
+程序内所需第三方包放在requirements.txt文件中。
